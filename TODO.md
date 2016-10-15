@@ -16,6 +16,8 @@
     -[ ] $username-spawn
     -[ ] $username-link
 
+-[ ] create paas radar ticket for each homework assignment to check against
+
 ## Delivery
 -[ ] harkness delivery
     -[ ] non-hierarchical sitting
@@ -30,7 +32,7 @@
 -[ ] make regex concept test
 
 ## Concept Test Ideas
--[ ] six cards: ABCDE?
+-[ ] six cards: ABCDE?, use ? when you honestly have not clue
 -[ ] Which is the most general|specific regex that will match "string"?
 -[ ] Limericks, Haikus, other poetic forms
 

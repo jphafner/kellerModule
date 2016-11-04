@@ -31,8 +31,11 @@
 -[ ] make example module (regex)
 -[ ] make regex concept test
 
+
 ## Concept Test Ideas
 -[ ] six cards: ABCDE?, use ? when you honestly have not clue
 -[ ] Which is the most general|specific regex that will match "string"?
+-[ ] Which is the most general|specific PEG that will match "string"?
 -[ ] Limericks, Haikus, other poetic forms
+
 
